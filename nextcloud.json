@@ -17,7 +17,7 @@
         "php80-pcntl",
         "php80-pecl-redis",
         "php80-phar",
-        "nginx",
+        "nginx-devel",
         "mysql80-server",
         "redis",
         "py38-fail2ban",
